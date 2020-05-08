@@ -16,8 +16,8 @@ Returns x in trigonometry function Cosekans, while x must be in radians.
 
 **Mathematical Constants**
 
-**e()**
-Returns Euler's number, no input.
+**e**
+Euler's number.
 
 **Combinatorics**
 
